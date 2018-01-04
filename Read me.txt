@@ -1,0 +1,7 @@
+Teacher Login:
+ID:		teacher123
+Password:	teacher123
+
+Student Login:
+ID:		student123
+Password:	student123
